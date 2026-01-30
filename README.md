@@ -1,6 +1,5 @@
 # Graduate Outcomes Analytics
-**Unemployment among Mathematical & Physical Sciences graduates**
-
+**Unemployment among Mathematical & Physical Sciences graduates**<br/>
 *Cohorts 2021–22 & 2022–23 · Experimental analysis of anonymised GOS data*
 
 ### Overview
@@ -76,8 +75,8 @@ The repository demonstrates:
 
 
 ### Author
-**Tehila Sharabi**
-Data Analyst & Researcher
+**Tehila Sharabi**<br/>
+Data Analyst & Researcher<br/>
 GitHub: https://github.com/Tehila87
 
 
