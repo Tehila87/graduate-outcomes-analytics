@@ -1,5 +1,6 @@
 # Graduate Outcomes Analytics
 **Unemployment among Mathematical & Physical Sciences graduates**
+
 *Cohorts 2021–22 & 2022–23 · Experimental analysis of anonymised GOS data*
 
 ### Overview
